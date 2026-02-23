@@ -1,5 +1,4 @@
 # florida-homestead-helpers
-
 florida-homestead-helpers/
 ├── README.md                 ← The instruction book (I wrote it below, explained like you’re 10)
 ├── index.html                ← The main page — where people browse the list
